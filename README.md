@@ -1,6 +1,6 @@
 ### Oii! Eu sou o Jose Neto!😁
 
-- 🔭 Hoje trabalho como front-end
+- 🔭 Hoje trabalho como FullStack
 - 🌱 Estudante Phyton
 - 😄 Pronouns: ele/dele
 
