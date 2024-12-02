@@ -1,15 +1,15 @@
-###💻 Full Stack Developer | 🌟 Laravel & ⚡ Vue.js Specialist
+💻 Desenvolvedor Full Stack | 🌟Especialista em Laravel & ⚡ Vue.js
 
-✨ Building impactful digital solutions with 🛠️ Laravel for robust back-end APIs and 🎨 Vue.js for responsive, dynamic front-ends.
+✨ Construindo soluções digitais impactantes com 🛠️ Laravel para APIs robustas de back-end e 🎨 Vue.js para front-ends dinâmicos e responsivos.
 
-🚀 Skills:
-• 🌐 RESTful APIs with Laravel
-• ⚙️ Reactive components in Vue.js
-• 🗄️ Database optimization (SQL)
-• 🧩 Git versioning & collaboration
-• 🛡️ Performance & security focus
+🚀 **Habilidades:**
+• 🌐 APIs RESTful com Laravel  
+• ⚙️ Componentes reativos em Vue.js  
+• 🗄️ Otimização de banco de dados (SQL)  
+• 🧩 Versionamento e colaboração com Git  
+• 🛡️ Foco em desempenho e segurança  
 
-💡 Let’s code and create together! 🚀✨
+💡 Vamos codar e criar juntos! 🚀✨
 
 <div style="display: inline_block"><br> 
 <img align="center" alt="Netto-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
