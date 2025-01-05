@@ -1,4 +1,4 @@
-💻 Desenvolvedor Full Stack | 🌟Especialista em Laravel & ⚡ Vue.js
+💻 Desenvolvedor Full Stack |
 
 ✨ Construindo soluções digitais impactantes com 🛠️ Laravel para APIs robustas de back-end e 🎨 Vue.js para front-ends dinâmicos e responsivos.
 
