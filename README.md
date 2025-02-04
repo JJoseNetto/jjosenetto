@@ -3,8 +3,9 @@
 ✨ Construindo soluções digitais impactantes com 🛠️ Laravel para APIs robustas de back-end e 🎨 Vue.js para front-ends dinâmicos e responsivos.
 
 🚀 **Habilidades:**
+
 • 🌐 APIs RESTful com Laravel  
-• ⚙️ Componentes reativos em React
+• ⚙️ Componentes reativos em React.js <br>
 • 🗄️ Otimização de banco de dados (SQL)  
 • 🧩 Versionamento e colaboração com Git  
 • 🛡️ Foco em desempenho e segurança  
