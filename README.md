@@ -4,7 +4,7 @@
 
 🚀 **Habilidades:**
 • 🌐 APIs RESTful com Laravel  
-• ⚙️ Componentes reativos em Vue.js  
+• ⚙️ Componentes reativos em React
 • 🗄️ Otimização de banco de dados (SQL)  
 • 🧩 Versionamento e colaboração com Git  
 • 🛡️ Foco em desempenho e segurança  
