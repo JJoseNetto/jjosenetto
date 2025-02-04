@@ -1,6 +1,6 @@
 💻 Desenvolvedor Full Stack |
 
-✨ Construindo soluções digitais impactantes com 🛠️ Laravel para APIs robustas de back-end e 🎨 Vue.js para front-ends dinâmicos e responsivos.
+✨ Construindo soluções digitais impactantes com 🛠️ Laravel para APIs robustas de back-end e 🎨 React.js para front-ends dinâmicos e responsivos.
 
 🚀 **Habilidades:**
 
