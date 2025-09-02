@@ -4,8 +4,8 @@
 
 🚀 **Habilidades:**
 
-• 🌐 APIs RESTFull
-• ⚙️ Componentes reativos
+• 🌐 APIs RESTFull <br>
+• ⚙️ Componentes reativos <br>
 • 🧩 Versionamento e colaboração com Git  
 • 🛡️ Foco em desempenho e segurança  
 
