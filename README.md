@@ -1,12 +1,11 @@
 💻 Desenvolvedor Full Stack |
 
-✨ Construindo soluções digitais impactantes com 🛠️ Laravel para APIs robustas de back-end e 🎨 React.js para front-ends dinâmicos e responsivos.
+✨ Construindo soluções digitais impactantes.
 
 🚀 **Habilidades:**
 
-• 🌐 APIs RESTful com Laravel  
-• ⚙️ Componentes reativos em React.js <br>
-• 🗄️ Otimização de banco de dados (SQL)  
+• 🌐 APIs RESTFull
+• ⚙️ Componentes reativos
 • 🧩 Versionamento e colaboração com Git  
 • 🛡️ Foco em desempenho e segurança  
 
@@ -18,12 +17,13 @@
 <img align="center" alt="Netto-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Netto-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <img align="center" alt="Netto-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-<img align="center" alt="Netto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Netto-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Netto-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img align="center" alt="Netto-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
 <img align="center" alt="Netto-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Netto-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 <img align="center" alt="Netto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Netto-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 
 
  </div>
